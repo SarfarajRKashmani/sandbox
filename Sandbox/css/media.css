@@ -1,0 +1,346 @@
+@media(max-width:1399px){
+    .col-xl-1{
+        width: 8.3333%;
+        padding: 15px;
+    }
+    .col-xl-2{
+        width: 16.6666%;
+        padding: 15px;
+        /* background-color:red; */
+    }
+    .col-xl-3{
+        width: 25%;
+        padding: 15px;
+    }
+    .col-xl-4{
+        width: 33.3333%;
+        padding: 15px;
+    }
+    .col-xl-5{
+        width: 41.6666%;
+        padding: 15px;
+    }
+    .col-xl-6{
+        width: 50%;
+        padding: 15px;
+    }
+    .col-xl-7{
+        width: 58.3333%;
+        padding: 15px;
+    }
+    .col-xl-8{
+        width: 66.6666%;
+        padding: 15px;
+    }
+    .col-xl-9{
+        width: 75%;
+        padding: 15px;
+    }
+    .col-xl-10{
+        width: 83.3333%;
+        padding: 15px;
+    }
+    .col-xl-11{
+        width: 91.6666%;
+        padding: 15px;
+    }
+    .col-xl-12{
+        width: 100%;
+        padding: 15px;
+    }
+}
+@media(max-width:1199px){
+    .col-lg-1{
+        width: 8.3333%;
+        padding: 15px;
+    }
+    .col-lg-2{
+        width: 16.6666%;
+        padding: 15px;
+        /* background-color:red; */
+    }
+    .col-lg-3{
+        width: 25%;
+        padding: 15px;
+    }
+    .col-lg-4{
+        width: 33.3333%;
+        padding: 15px;
+    }
+    .col-lg-5{
+        width: 41.6666%;
+        padding: 15px;
+    }
+    .col-lg-6{
+        width: 50%;
+        padding: 15px;
+    }
+    .col-lg-7{
+        width: 58.3333%;
+        padding: 15px;
+    }
+    .col-lg-8{
+        width: 66.6666%;
+        padding: 15px;
+    }
+    .col-lg-9{
+        width: 75%;
+        padding: 15px;
+    }
+    .col-lg-10{
+        width: 83.3333%;
+        padding: 15px;
+    }
+    .col-lg-11{
+        width: 91.6666%;
+        padding: 15px;
+    }
+    .col-lg-12{
+        width: 100%;
+        padding: 15px;
+    }
+    header .logo{
+        padding-left: 20px;
+    }
+  
+  
+}
+@media(max-width:991px){
+    .col-md-1{
+        width: 8.3333%;
+        padding: 15px;
+    }
+    .col-md-2{
+        width: 16.6666%;
+        padding: 15px;
+        /* background-color:red; */
+    }
+    .col-md-3{
+        width: 25%;
+        padding: 15px;
+    }
+    .col-md-4{
+        width: 33.3333%;
+        padding: 15px;
+    }
+    .col-md-5{
+        width: 41.6666%;
+        padding: 15px;
+    }
+    .col-md-6{
+        width: 50%;
+        padding: 15px;
+    }
+    .col-md-7{
+        width: 58.3333%;
+        padding: 15px;
+    }
+    .col-md-8{
+        width: 66.6666%;
+        padding: 15px;
+    }
+    .col-md-9{
+        width: 75%;
+        padding: 15px;
+    }
+    .col-md-10{
+        width: 83.3333%;
+        padding: 15px;
+    }
+    .col-md-11{
+        width: 91.6666%;
+        padding: 15px;
+    }
+    .col-md-12{
+        width: 100%;
+        padding: 15px;
+    }
+    .container{
+        max-width: 740px;
+        margin: 0 auto;
+        padding: 0 10px;
+     }
+    .banner-content .row{
+        justify-content:center ;
+    }
+    .banner-content{
+        text-align: center;
+        padding: 50px 0;
+    }
+  
+    nav{
+    display: none;
+    }
+    header .logo{
+    padding-left: 20px;
+    }
+    header .btn{
+        display:block;
+        /* margin-left: 435px; */
+    }
+    header .menu{
+        display: block;
+    }
+    .banner-content h1{
+        font-size: 37px;
+    }
+   .choose-content{
+    text-align: center;
+   }
+   .choose-content svg{
+    margin-left: 30px;
+    width:27px ;
+   }
+   .solution-content{
+    text-align: ;
+   }
+   .review-img-box{
+    display: none;
+    }
+    .pricing-info{
+        justify-content: flex-start;
+    }
+    .analyze-input{
+        width: 100%;
+    }
+    .footer-box img{
+        width: 18%;
+    }
+    .order-1{
+        order:2;
+    }
+    .order-2{
+        order:1;
+    }
+ 
+
+  }
+@media(max-width:767px){
+    .col-sm-1{
+        width: 8.3333%;
+        padding: 15px;
+    }
+    .col-sm-2{
+        width: 16.6666%;
+        padding: 15px;
+        /* background-color:red; */
+    }
+    .col-sm-3{
+        width: 25%;
+        padding: 15px;
+    }
+    .col-sm-4{
+        width: 33.3333%;
+        padding: 15px;
+    }
+    .col-sm-5{
+        width: 41.6666%;
+        padding: 15px;
+    }
+    .col-sm-6{
+        width: 50%;
+        padding: 15px;
+    }
+    .col-sm-7{
+        width: 58.3333%;
+        padding: 15px;
+    }
+    .col-sm-8{
+        width: 66.6666%;
+        padding: 15px;
+    }
+    .col-sm-9{
+        width: 75%;
+        padding: 15px;
+    }
+    .col-sm-10{
+        width: 83.3333%;
+        padding: 15px;
+    }
+    .col-sm-11{
+        width: 91.6666%;
+        padding: 15px;
+    }
+    .col-sm-12{
+        width: 100%;
+        padding: 15px;
+    } 
+    header .logo{
+        padding-left: 20px;
+    }
+    header .btn{
+        display: none;
+    }
+    header .menu{
+        display: block;
+    }
+    .banner-content .btn{
+        margin: 7px 0;
+    }
+    .choose-content .align-items-start{
+        align-items: center;
+    }
+    .choose-content .justify-between{
+        justify-content:center;
+    }
+    .analyze-input{
+        width: 100%;
+    }
+    .icon{
+        padding: 10px 0;
+    }
+    .footer-box img{
+        width: 18%;
+    }
+}
+@media(max-width:575px){
+    .col-xs-1{
+        width: 8.3333%;
+        padding: 15px;
+    }
+    .col-xs-2{
+        width: 16.6666%;
+        padding: 15px;
+        /* background-color:red; */
+    }
+    .col-xs-3{
+        width: 25%;
+        padding: 15px;
+    }
+    .col-xs-4{
+        width: 33.3333%;
+        padding: 15px;
+    }
+    .col-xs-5{
+        width: 41.6666%;
+        padding: 15px;
+    }
+    .col-xs-6{
+        width: 50%;
+        padding: 15px;
+    }
+    .col-xs-7{
+        width: 58.3333%;
+        padding: 15px;
+    }
+    .col-xs-8{
+        width: 66.6666%;
+        padding: 15px;
+    }
+    .col-xs-9{
+        width: 75%;
+        padding: 15px;
+    }
+    .col-xs-10{
+        width: 83.3333%;
+        padding: 15px;
+    }
+    .col-xs-11{
+        width: 91.6666%;
+        padding: 15px;
+    }
+    .col-xs-12{
+        width: 100%;
+        padding: 15px;
+    }
+}
